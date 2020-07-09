@@ -1,1 +1,1 @@
-![](https://github.com/rijkvanzanten/rijkvanzanten/raw/master/directus.png)
+![](https://github.com/rijkvanzanten/rijkvanzanten/raw/master/directus-green.png)
