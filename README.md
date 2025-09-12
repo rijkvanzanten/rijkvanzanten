@@ -2,11 +2,7 @@
 
 I build things, design stuff, and like to keep my sources open. I primarily focus on building and maintaining Directus, but don't shy away from some fun projects on the side 🌝
 
-I'm best reached on:
-
-- 🦋 [Bluesky](https://bsky.app/profile/rijk.nyc)
-
-or email: 
+I'm best reached on email: 
 - Directus: rijk@directus.io
 - Personal: rijkvanzanten@me.com
 
